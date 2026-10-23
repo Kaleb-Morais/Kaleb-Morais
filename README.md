@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Kaleb-Morais/Kaleb-Morais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! 👋
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Engenharia de Software  
+💻 Iniciante em programação, construindo projetos práticos  
+🎯 Foco em Backend Java e desenvolvimento de software  
+📚 Atualmente estudando lógica de programação e fundamentos de Java  
+🚀 Objetivo: conquistar minha primeira oportunidade de estágio em tecnologia
+
+## Tecnologias em aprendizado
+
+- Lógica de programação
+- Git e GitHub
+- Java (conforme avançar nos estudos)
+
+## Próximos passos
+
+- Orientação a objetos com Java
+- SQL e PostgreSQL
+- Spring Boot e APIs REST
+
+## Contato
+
+- LinkedIn: [Meu perfil](https://www.linkedin.com/in/kaleb-morais-36492440b/)
+
