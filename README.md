@@ -1,17 +1,24 @@
 
-<h1 align="center">Hi, I'm Kaleb 👋</h1>
+<h1 align="center">Hi, I'm Kaleb Morais 👋</h1>
+
+<h3 align="center">Software Engineering Student | Aspiring Backend Developer</h3>
 
 <p align="center">
-  Software Engineering Student | Aspiring Backend Developer
+  Building a strong foundation in programming and working toward my first internship in technology.
 </p>
 
 <p align="center">
-  Focused on learning programming fundamentals and building a strong foundation for a career in software development.
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Kaleb-Morais">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
 - 🎓 Software Engineering student
 - 🌱 Starting my journey in programming
@@ -19,30 +26,33 @@
 - 📚 Currently building my programming fundamentals
 - 💼 Looking for my first internship opportunity in technology
 
-### Learning Roadmap
+I'm a Software Engineering student focused on learning programming and building a strong foundation for a career in software development. I'm currently developing my fundamentals and plan to specialize in Backend Development with Java. I'm excited to learn, build real projects, and grow as a software developer.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java learning"/>
-  <img src="https://img.shields.io/badge/Git-Learning-F05032?style=flat-square&logo=git&logoColor=white" alt="Git learning"/>
-  <img src="https://img.shields.io/badge/GitHub-Getting%20Started-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,figma&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub, MySQL and Figma"/>
 </p>
 
-**Next steps:** Object-Oriented Programming, SQL, PostgreSQL and Spring Boot.
+---
 
-### Projects
+## 📊 GitHub Stats
 
-I'm currently starting my programming journey. Projects will be added here as I build and improve them.
-
-### GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kaleb-Morais&show_icons=true&hide_border=true&theme=default" alt="Kaleb's GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleb-Morais&layout=compact&hide_border=true&theme=default" alt="Most used languages"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaleb-Morais&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Kaleb's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleb-Morais&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+I'm currently building my programming fundamentals. Projects will be featured here as I develop and improve them.
 
 ---
 
 <p align="center">
   <i>Learning consistently, building step by step.</i>
 </p>
-
