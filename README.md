@@ -1,58 +1,77 @@
 
-<h1 align="center">Hi, I'm Kaleb Morais 👋</h1>
+<div align="center">
 
-<h3 align="center">Software Engineering Student | Aspiring Backend Developer</h3>
+# Kaleb Morais
 
-<p align="center">
-  Building a strong foundation in programming and working toward my first internship in technology.
-</p>
+### Software Engineering Student · Aspiring Backend Developer
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Kaleb-Morais">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+Building a strong foundation in programming and working toward my first internship in technology.
+
+<a href="https://www.linkedin.com/in/kaleb-morais-36492440b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/Kaleb-Morais">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
 
+<table>
+<tr>
+<td width="52%" valign="top">
+
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student
-- 🌱 Starting my journey in programming
-- 🎯 Career goal: Backend Development with Java
-- 📚 Currently building my programming fundamentals
-- 💼 Looking for my first internship opportunity in technology
+🎓 Software Engineering student
 
-I'm a Software Engineering student focused on learning programming and building a strong foundation for a career in software development. I'm currently developing my fundamentals and plan to specialize in Backend Development with Java. I'm excited to learn, build real projects, and grow as a software developer.
+🌱 Starting my journey in programming
+
+🎯 Career goal: Backend Development with Java
+
+📚 Building my programming fundamentals
+
+💼 Seeking my first internship in technology
+
+I'm focused on learning programming, developing practical skills, and building projects step by step. My long-term goal is to specialize in Backend Development with Java.
+
+</td>
+<td width="48%" valign="top">
+
+## 📊 GitHub Stats
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Kaleb-Morais&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&ring_color=58A6FF&include_all_commits=true" alt="GitHub Statistics"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,figma&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub, MySQL and Figma"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaleb-Morais&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Kaleb's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleb-Morais&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,figma&theme=dark" alt="Currently learning HTML, CSS, JavaScript, Git, GitHub, MySQL and Figma"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-I'm currently building my programming fundamentals. Projects will be featured here as I develop and improve them.
+<div align="center">
+
+**Projects coming soon**
+
+I'm currently building my programming fundamentals and will showcase my projects here as I develop them.
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Learning consistently, building step by step.</i>
-</p>
+<div align="center">
+
+*Learning consistently. Building step by step.*
+
+</div>
